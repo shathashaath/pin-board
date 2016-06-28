@@ -11,6 +11,7 @@ body{
   background-repeat: no-repeat;
   width:945px;
   height:1024px;
+  margin-top: 20px;
 }
 
 #special{
@@ -20,4 +21,11 @@ body{
   z-index: -1;
   margin-left: 133px;
   margin-top: 100px;
+}
+#pin{
+  width: 140px;
+  height: auto;
+  position: absolute;
+  margin-top: -7px;
+  margin-left: 300px;
 }
